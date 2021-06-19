@@ -43,15 +43,15 @@ const data = {
   attributes: [
     {
       type: 'Aparência',
-      amount: 10,
+      amount: 09,
     },
     {
       type: 'Constituição',
-      amount: 10,
+      amount: 12,
     },
     {
       type: 'Destreza',
-      amount: 10,
+      amount: 14,
     },
     {
       type: 'Educação',
@@ -59,23 +59,23 @@ const data = {
     },
     {
       type: 'Força',
-      amount: 10,
+      amount: 14,
     },
     {
       type: 'Inteligência',
-      amount: 10,
+      amount: 12,
     },
     {
       type: 'Poder',
-      amount: 10,
+      amount: 11,
     },
     {
       type: 'Sorte',
-      amount: 10,
+      amount: 14,
     },
     {
       type: 'Movimento',
-      amount: 10,
+      amount: 8,
     },
     {
       type: '?',
