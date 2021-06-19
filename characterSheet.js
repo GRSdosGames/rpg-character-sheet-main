@@ -1,7 +1,7 @@
 const data = {
-  name: 'Claudio',
-  player: 'Ryan',
-  occupation: 'Caçador',
+  name: 'Wilson',
+  player: 'Gui',
+  occupation: 'Espadas e Magia',
   age: 21,
   sex: 'male',
   birthplace: 'São paulo',
@@ -9,7 +9,7 @@ const data = {
 
   life: {
     current: 12,
-    max: 12,
+    max: 20,
   },
   sanity: {
     current: 62,
@@ -18,13 +18,13 @@ const data = {
 
   weapons: [
     {
-      name: 'Balestra',
-      type: 'Arco',
-      damage: '1d20',
+      name: 'Kathunder',
+      type: 'espada',
+      damage: '1d10+4',
       numCurrent: 1,
       numMax: 1,
-      attack: 5,
-      reach: '10 m',
+      attack: 14,
+      reach: '2 m',
       defect: 1,
       area: '',
     },
